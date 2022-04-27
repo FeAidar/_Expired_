@@ -1,0 +1,4 @@
+repository "Joguinho Futurista 2D (2)@phelaidar@cloud"
+  path "/"
+    br "/main"
+    co "/main"

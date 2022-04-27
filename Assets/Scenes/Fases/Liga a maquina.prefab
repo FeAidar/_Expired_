@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &409281410772988
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 409281410772977}
+  - component: {fileID: 409281410772990}
+  - component: {fileID: 409281410772991}
+  m_Layer: 0
+  m_Name: Liga a maquina
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &409281410772977
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 409281410772988}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 249.0098, y: -12.981672, z: -55.197887}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!320 &409281410772990
+PlayableDirector:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 409281410772988}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_PlayableAsset: {fileID: 11400000, guid: e4516a632e9f0dc4d99cdf5076fe0b23, type: 2}
+  m_InitialState: 1
+  m_WrapMode: 0
+  m_DirectorUpdateMode: 1
+  m_InitialTime: 0
+  m_SceneBindings:
+  - key: {fileID: 1105318542085468787, guid: e4516a632e9f0dc4d99cdf5076fe0b23, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: -8168527676973683977, guid: e4516a632e9f0dc4d99cdf5076fe0b23, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 8446113942455839090, guid: e4516a632e9f0dc4d99cdf5076fe0b23, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 1131211418850314981, guid: e4516a632e9f0dc4d99cdf5076fe0b23, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 267503175926153333, guid: e4516a632e9f0dc4d99cdf5076fe0b23, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 6897463434597554669, guid: e4516a632e9f0dc4d99cdf5076fe0b23, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 7867029553349344822, guid: e4516a632e9f0dc4d99cdf5076fe0b23, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 6224438159480698629, guid: e4516a632e9f0dc4d99cdf5076fe0b23, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: -586766050653626994, guid: e4516a632e9f0dc4d99cdf5076fe0b23, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: -7310507056513930200, guid: e4516a632e9f0dc4d99cdf5076fe0b23, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 3439343778167597045, guid: e4516a632e9f0dc4d99cdf5076fe0b23, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 5704903452128670865, guid: e4516a632e9f0dc4d99cdf5076fe0b23, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: -7830284397576090647, guid: e4516a632e9f0dc4d99cdf5076fe0b23, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: -7134806953897870004, guid: e4516a632e9f0dc4d99cdf5076fe0b23, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: -8416001298207566993, guid: e4516a632e9f0dc4d99cdf5076fe0b23, type: 2}
+    value: {fileID: 0}
+  m_ExposedReferences:
+    m_References:
+    - 8e68ab59915d33148a5c94700815ae60: {fileID: 0}
+--- !u!114 &409281410772991
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 409281410772988}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77014ba100c5866479e757087abee3ef, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 0}
+  animatorplayer: {fileID: 0}
+  director: {fileID: 409281410772990}
+  fim_de_cena: 1
+  acabou: {fileID: 0}
+  levelName: 10 - Maquina do tempo e fim
+  concertado: 0

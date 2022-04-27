@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bomba
+  - Rope
+  - pushable
+  - Monstro
+  - Camera
+  - Bloqueio de Caixa
+  - EfeitoPortal
+  - chao
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Parede
+  - Water
+  - UI
+  - Player
+  - Mask
+  - Black
+  - Behind Mask
+  - Camera Collider
+  - "Ch\xE3o"
+  - Fundo
+  - Bloqueio de Caixa
+  - Caixa
+  - Caixa passa
+  - DetectaChao
+  - "Naovech\xE3o"
+  - Granada
+  - PostFX
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Fundo
+    uniqueID: 3429828055
+    locked: 0
+  - name: "C\xE9u"
+    uniqueID: 1363375405
+    locked: 0
+  - name: Fundo 5
+    uniqueID: 3855284755
+    locked: 0
+  - name: Fundo 4
+    uniqueID: 3036254539
+    locked: 0
+  - name: Fundo 3
+    uniqueID: 799144709
+    locked: 0
+  - name: Fundo 2
+    uniqueID: 2747830379
+    locked: 0
+  - name: Fundo 1
+    uniqueID: 2811492139
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: "Ch\xE3o"
+    uniqueID: 633723475
+    locked: 0
+  - name: Parede
+    uniqueID: 4241863957
+    locked: 0
+  - name: Objetos
+    uniqueID: 3784482629
+    locked: 0
+  - name: Player
+    uniqueID: 3229062873
+    locked: 0
+  - name: Preto
+    uniqueID: 2052513365
+    locked: 0
+  - name: Teste
+    uniqueID: 1611767449
+    locked: 0

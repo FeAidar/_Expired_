@@ -1,0 +1,658 @@
+fileFormatVersion: 2
+guid: 3c4fa89d3fb8add4b8829f2ca32c893d
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Camada 5
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 321
+      y: 378
+      width: 146
+      height: 46
+    spriteID: ca14bf3d811516047967171025051707
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -132, y: -301}
+  - name: "cabe\xE7a"
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 157
+      width: 170
+      height: 213
+    spriteID: 6a85e1f64d467c34898db463f8c9ceb3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -428, y: -473}
+  - name: "pesco\xE7o"
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 432
+      width: 81
+      height: 70
+    spriteID: 75fbd1745cb70544daf7ac4fc91e2ec7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -128, y: -185}
+  - name: "bra\xE7o esquerdo"
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 803
+      width: 77
+      height: 148
+    spriteID: 21c73e97e82d24c4d84c8fa5ca6d0b55
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -372, y: 329}
+  - name: "antebra\xE7o esquerdo"
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 803
+      width: 23
+      height: 122
+    spriteID: 1f0d6f12b54aba34b90da8b2ebebda2e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -284, y: 428}
+  - name: "m\xE3o esquerda"
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5
+      y: 961
+      width: 36
+      height: 43
+    spriteID: 9ab4f278ee1add74cbe20081539d02f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -356, y: 617}
+  - name: peito
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 378
+      width: 145
+      height: 244
+    spriteID: d24ba6095769f6b40a3881b0aa818b16
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -409, y: -17}
+  - name: cintura
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 158
+      y: 378
+      width: 154
+      height: 151
+    spriteID: de37f79dddf9b294eb092fd6a0fe190a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -255, y: 49}
+  - name: "bra\xE7o direito"
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 157
+      y: 691
+      width: 69
+      height: 152
+    spriteID: 6e54052d09245af48b12bed3e3a2387e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -362, y: 221}
+  - name: "antebra\xE7o  direito"
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 803
+      width: 24
+      height: 122
+    spriteID: c2e0e4c1cc25b6741a67a7f4d61adc5c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -447, y: 431}
+  - name: "m\xE3o direita"
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 437
+      y: 6
+      width: 36
+      height: 42
+    spriteID: 8a34ec7d21a127e43814d54a5a9cf18a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -133, y: -347}
+  - name: coxa esquerda
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 157
+      y: 851
+      width: 69
+      height: 143
+    spriteID: af67e14a0cda1984c83dec01af3832b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -258, y: 622}
+  - name: canela esquerda
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 158
+      y: 538
+      width: 74
+      height: 145
+    spriteID: 574a0987af994e846a9574dc6ee6d07e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -237, y: 373}
+  - name: "p\xE9 esquerdo"
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 763
+      width: 53
+      height: 16
+    spriteID: d91888ed32b57a9438feb1769940e9e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -312, y: 601}
+  - name: coxa direita
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5
+      y: 630
+      width: 72
+      height: 164
+    spriteID: d00f217cbc8b3c9498584f18252ae5fd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -504, y: 412}
+  - name: canela direita
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 86
+      y: 631
+      width: 43
+      height: 123
+    spriteID: ef5067515f726fd468213bd1f2245800
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -452, y: 467}
+  - name: "p\xE9 direito"
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 158
+      y: 1003
+      width: 52
+      height: 15
+    spriteID: a894d152e65086e41b0e26334739d028
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -385, y: 841}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Camada 5
+    spriteName: Camada 5
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ca14bf3d811516047967171025051707
+    layerID: 20
+    mosaicPosition: {x: 320, y: 378}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "cabe\xE7a"
+    spriteName: "cabe\xE7a"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6a85e1f64d467c34898db463f8c9ceb3
+    layerID: 33
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "pesco\xE7o"
+    spriteName: "pesco\xE7o"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 75fbd1745cb70544daf7ac4fc91e2ec7
+    layerID: 16
+    mosaicPosition: {x: 320, y: 432}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "bra\xE7o esquerdo"
+    spriteName: "bra\xE7o esquerdo"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 21c73e97e82d24c4d84c8fa5ca6d0b55
+    layerID: 40
+    mosaicPosition: {x: 4, y: 803}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "antebra\xE7o esquerdo"
+    spriteName: "antebra\xE7o esquerdo"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1f0d6f12b54aba34b90da8b2ebebda2e
+    layerID: 41
+    mosaicPosition: {x: 89, y: 803}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "m\xE3o esquerda"
+    spriteName: "m\xE3o esquerda"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9ab4f278ee1add74cbe20081539d02f9
+    layerID: 42
+    mosaicPosition: {x: 4, y: 960}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: peito
+    spriteName: peito
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d24ba6095769f6b40a3881b0aa818b16
+    layerID: 35
+    mosaicPosition: {x: 4, y: 378}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: cintura
+    spriteName: cintura
+    isGroup: 0
+    parentIndex: -1
+    spriteID: de37f79dddf9b294eb092fd6a0fe190a
+    layerID: 36
+    mosaicPosition: {x: 157, y: 378}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "bra\xE7o direito"
+    spriteName: "bra\xE7o direito"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6e54052d09245af48b12bed3e3a2387e
+    layerID: 37
+    mosaicPosition: {x: 157, y: 691}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "antebra\xE7o  direito"
+    spriteName: "antebra\xE7o  direito"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c2e0e4c1cc25b6741a67a7f4d61adc5c
+    layerID: 38
+    mosaicPosition: {x: 121, y: 803}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "m\xE3o direita"
+    spriteName: "m\xE3o direita"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8a34ec7d21a127e43814d54a5a9cf18a
+    layerID: 39
+    mosaicPosition: {x: 436, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: coxa esquerda
+    spriteName: coxa esquerda
+    isGroup: 0
+    parentIndex: -1
+    spriteID: af67e14a0cda1984c83dec01af3832b3
+    layerID: 43
+    mosaicPosition: {x: 157, y: 851}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: canela esquerda
+    spriteName: canela esquerda
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 574a0987af994e846a9574dc6ee6d07e
+    layerID: 44
+    mosaicPosition: {x: 157, y: 537}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "p\xE9 esquerdo"
+    spriteName: "p\xE9 esquerdo"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d91888ed32b57a9438feb1769940e9e6
+    layerID: 45
+    mosaicPosition: {x: 85, y: 763}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: coxa direita
+    spriteName: coxa direita
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d00f217cbc8b3c9498584f18252ae5fd
+    layerID: 46
+    mosaicPosition: {x: 4, y: 630}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: canela direita
+    spriteName: canela direita
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ef5067515f726fd468213bd1f2245800
+    layerID: 47
+    mosaicPosition: {x: 85, y: 630}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "p\xE9 direito"
+    spriteName: "p\xE9 direito"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a894d152e65086e41b0e26334739d028
+    layerID: 48
+    mosaicPosition: {x: 157, y: 1002}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  generateGOHierarchy: 0
+  textureAssetName: cientista_humano_partes_normal_map Texture
+  prefabAssetName: cientista_humano_partes_normal_map Prefab
+  spriteLibAssetName: cientista_humano_partes_normal_map Sprite Lib
+  skeletonAssetName: 
+  secondarySpriteTextures: []
